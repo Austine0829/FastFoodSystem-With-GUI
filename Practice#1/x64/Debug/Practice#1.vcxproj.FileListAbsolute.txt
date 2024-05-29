@@ -1,0 +1,3 @@
+C:\Users\Miel\source\repos\Practice#1\Practice#1\x64\Debug\Practice#1.vcxproj.AssemblyReference.cache
+C:\Users\Miel\source\repos\Practice#1\Practice#1\x64\Debug\Practice1.PracticeForm.resources
+C:\Users\Miel\source\repos\Practice#1\Practice#1\x64\Debug\Practice#1.vcxproj.GenerateResource.cache

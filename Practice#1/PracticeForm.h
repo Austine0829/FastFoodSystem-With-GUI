@@ -1110,6 +1110,7 @@ void ClearSystem() // To Reset The CheckBoxes, TextBoxes And Numeric Up/Down
 	nudStrawberry->Value = 0;
 	nudMango->Value = 0;
 
+	//Reset TextBoxes
 	txtCustomerBill->Text = "0";
 	txtChange->Text = "0";
 	txtTotal->Text = "0";
